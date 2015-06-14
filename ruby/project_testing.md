@@ -63,6 +63,7 @@ Only write exactly enough code to make your test pass.  Oftentimes, you'll end u
 * [Dawn Pattison's solution](https://github.com/pattisdr/theOdinProject/tree/master/connect_four)
 * [Frank Peelen's solution](https://github.com/FrankPeelen/Connect-Four)
 * [AtActionPark's solution](https://github.com/AtActionPark/odin_connect_four)
+* [Aadil's solution](https://github.com/prevosis/The-Odin-Project/tree/master/RubyProjects/ConnectFour)
 * Add your solution above this line!
 
 
